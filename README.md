@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist tolik505/yii2-vuejs "*"
+composer require --prefer-dist tolik505/yii2-vuejs-assets "*"
 ```
 
 or add
 
 ```
-"tolik505/yii2-vuejs": "*"
+"tolik505/yii2-vuejs-assets": "*"
 ```
 
 to the require section of your `composer.json` file.
