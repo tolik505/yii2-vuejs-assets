@@ -25,13 +25,13 @@ to the require section of your `composer.json` file.
 Usage
 -----
 
-If you want utilize Vue with Vue-resource, add this code in your view :
+If you want to utilize Vue with Vue-resource, add this code in your view :
 
 ```php
 <?php \tolik505\vuejs\VueBundleAsset::register($this); ?>
 ```
 
-If you want utilize pure Vue, add this code in your view :
+If you want to utilize only pure Vue, add this code in your view :
 
 ```php
 <?php \tolik505\vuejs\VueAsset::register($this); ?>
