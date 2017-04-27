@@ -1,5 +1,5 @@
 {
-    "name": "tolik505/yii2-vuejs",
+    "name": "tolik505/yii2-vuejs-assets",
     "description": "This assets allow to use vueJs in your Yii2 application",
     "type": "yii2-extension",
     "keywords": ["yii2","library","vue", "vueJs", "vue-resource"],
