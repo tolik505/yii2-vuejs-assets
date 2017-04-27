@@ -2,7 +2,7 @@
     "name": "tolik505/yii2-vuejs",
     "description": "This assets allow to use vueJs in your Yii2 application",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","vue","vue-resource"],
+    "keywords": ["yii2","library","vue", "vueJs", "vue-resource"],
     "license": "MIT",
     "authors": [
         {
