@@ -1,6 +1,6 @@
-VueJs and Vue-resource assets for Yii2
+VueJs and Axios assets for Yii2
 ======================================
-This assets allow to use vueJs in your Yii2 application. It contains vue.js and vue-resource.js
+This assets allow to use vueJs in your Yii2 application. It contains vue.js and axios.js
 
 Installation
 ------------
