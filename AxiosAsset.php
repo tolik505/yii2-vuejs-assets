@@ -4,11 +4,11 @@ namespace tolik505\vuejs;
 use yii\web\AssetBundle;
 
 /**
- * Class VueResourceAsset
+ * Class AxiosAsset
  *
  * @package tolik505\vuejs
  */
-class VueAxiosAsset extends AssetBundle
+class AxiosAsset extends AssetBundle
 {
     public $sourcePath = '@bower/axios/dist';
 

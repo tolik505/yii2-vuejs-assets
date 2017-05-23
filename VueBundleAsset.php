@@ -13,6 +13,8 @@ class VueBundleAsset extends AssetBundle
 {
     public $depends = [
         'tolik505\vuejs\VueAsset',
-        'tolik505\vuejs\VueAxiosAsset',
+        'tolik505\vuejs\AxiosAsset',
+        'tolik505\vuejs\VueRouterAsset',
+        'tolik505\vuejs\VuexAsset',
     ];
 }

@@ -13,7 +13,10 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "bower-asset/vue": "~2.3.0",
-        "bower-asset/axios": "~0.16.1"
+        "bower-asset/axios": "~0.16.1",
+        "bower-asset/vue-router": "~2.5.3",
+        "bower-asset/vuex": "~2.3.0",
+        "bower-asset/vee-validate": "~2.0.0"
     },
     "autoload": {
         "psr-4": {
